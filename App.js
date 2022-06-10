@@ -19,6 +19,11 @@ let info = [
         nom: 'Marie',
         age: 25,
         sexe: 'Feminin'
+    },
+    {
+        nom: 'Marie',
+        age: 25,
+        sexe: 'Feminin'
     }
 ];
 
